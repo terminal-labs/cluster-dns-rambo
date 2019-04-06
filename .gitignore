@@ -1,3 +1,6 @@
+cluster-dns-rambo/auth
+cluster-dns-rambo/.rambo-tmp
+
 .coverage
 logs
 keys.sh
